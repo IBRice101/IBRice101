@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A BSc. (Hons.) Ethical Hacking student from Liverpool</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrice101&label=Profile%20views&color=0e75b6&style=flat" alt="ibrice101" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrice101&label=Profile%20views&color=0e75b6&style=flat" alt="ibrice101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrice101" alt="ibrice101" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrice101" alt="ibrice101" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ibrice101" target="blank"><img src="https://img.shields.io/twitter/follow/ibrice101?logo=twitter&style=for-the-badge" alt="ibrice101" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ibrice101" target="blank"><img src="https://img.shields.io/twitter/follow/ibrice101?logo=twitter&style=for-the-badge" alt="ibrice101" /></a> </p>
 
-- 🔭 I’m currently working on **a homelab! At the moment I have a raspberry pi 4b (8GB) running [pi-hole](https://pi-hole.net/), however soon I'll be looking to migrate my website to self-hosting using [nginx](https://www.nginx.com/) in a docker container and [Ghost](https://ghost.org/) as a CMS. I am also writing as many articles as possible for the [Abertay Hacking Society Wiki](https://wiki.hacksoc.co.uk/), as collaboration sharing and the openness of information is very important to me**
+- 🔭 I’m currently working on: **a homelab! At the moment I have a raspberry pi 4b (8GB) running [pi-hole](https://pi-hole.net/), however soon I'll be looking to migrate my website to self-hosting using [nginx](https://www.nginx.com/) in a docker container and [Ghost](https://ghost.org/) as a CMS. I am also writing as many articles as possible for the [Abertay Hacking Society Wiki](https://wiki.hacksoc.co.uk/), as collaboration sharing and the openness of information is very important to me**
 
-- 🌱 I’m currently learning **the ins and outs of Linux, trying my hardest to become a holistic Linux pro. At the moment in particular I'm learning to be as efficient as possible in Vim (my preferred editor) by editing my vimrc to function as close to an IDE as is possible**
+- 🌱 I’m currently learning: **the ins and outs of Linux, trying my hardest to become a holistic Linux pro. At the moment in particular I'm learning to be as efficient as possible in Vim (my preferred editor) by editing my vimrc to function as close to an IDE as is possible**
 
-- 👯 I’m looking to collaborate on **anything and everything, collaboration, knowledge sharing, and open-source are huge passions of mine**
+- 👯 I’m looking to collaborate on: **anything and everything, collaboration, knowledge sharing, and open-source are huge passions of mine**
 
 - 😄 Pronouns: [they/them](they/them)
 
-- 📫 How to reach me **either on twitter or izbr [at] protonmail [dot] org**
+- 📫 How to reach me: **either on twitter or izbr [at] protonmail [dot] org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
