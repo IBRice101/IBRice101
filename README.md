@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on: **a homelab! At the moment I have a raspberry pi 4b (8GB) running [pi-hole](https://pi-hole.net/), however soon I'll be looking to migrate my website to self-hosting using [nginx](https://www.nginx.com/) in a docker container and [Ghost](https://ghost.org/) as a CMS. I am also writing as many articles as possible for the [Abertay Hacking Society Wiki](https://wiki.hacksoc.co.uk/), as collaboration sharing and the openness of information is very important to me**
 
-- 🌱 I’m currently learning: **the ins and outs of Linux, trying my hardest to become a holistic Linux pro. At the moment in particular I'm learning to be as efficient as possible in Vim (my preferred editor) by editing my vimrc to function as close to an IDE as is possible**
+- 🌱 I’m currently learning: **As much as I can, studying for a BSc. Hons. in Ethical Hacking from Abertay University, so cybersecurity is a particular niche of mine. Outwith security, I'm also currently looking at the ins and outs of Linux, trying my hardest to become a holistic Linux pro. At the moment in particular I'm learning to be as efficient as possible in Vim (my preferred editor) by editing my vimrc to function as close to an IDE as is possible**
 
 - 👯 I’m looking to collaborate on: **anything and everything, collaboration, knowledge sharing, and open-source are huge passions of mine**
 
