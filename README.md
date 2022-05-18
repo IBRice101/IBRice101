@@ -102,9 +102,11 @@
 		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
 	</a>
 </p>
+<!-- 
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrice101&show_icons=true&locale=en&theme=material-palenight&exclude_repo=dotfiles,FasthostsProject,theStudioApp,EDPDemonstration,EVaporate" alt="ibrice101" />
 </p>
 <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrice101&show_icons=true&locale=en&theme=material-palenight" alt="ibrice101" />
 </p>
+-->
