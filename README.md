@@ -102,6 +102,9 @@
 		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
 	</a>
 </p>
+
+If you found anything here interesting or helpful it'd be really cool if you could sent me a lil tip :)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1D0FSN)
 <!-- 
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrice101&show_icons=true&locale=en&theme=material-palenight&exclude_repo=dotfiles,FasthostsProject,theStudioApp,EDPDemonstration,EVaporate" alt="ibrice101" />
