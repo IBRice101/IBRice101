@@ -104,6 +104,7 @@
 </p>
 
 If you found anything here interesting or helpful it'd be really cool if you could sent me a lil tip :)
+</br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1D0FSN)
 <!-- 
 <p>
