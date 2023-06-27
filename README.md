@@ -16,9 +16,9 @@
 
 - 🌐 My Website: https://ibrice101.github.io/
 
-- 🔭 I’m currently working on: **A hell of a lot of uni work, I love it but man is it stressful lol**
+- 🔭 I’m currently working on: **Looking for a new project**
 
-- 🌱 I’m currently learning: **Malware Reverse Engineering, Exploit Development, Android Development through Android Studio, and Flask Development**
+- 🌱 I’m currently learning: **Endpoint Detection and Response, Malware Analysis, and Flask Development**
 
 - 👯 I’m looking to collaborate on: **anything and everything, collaboration, knowledge sharing, and open-source are huge passions of mine**
 
