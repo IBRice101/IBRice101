@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on: **anything and everything, collaboration, knowledge sharing, and open-source are huge passions of mine**
 
-- 😄 Pronouns: they\/them
+- 😄 Pronouns: she\/they
 
 - 📫 How to reach me: **either on twitter or izbr [at] protonmail [dot] org**
 
